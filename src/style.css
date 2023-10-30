@@ -10,6 +10,10 @@ body {
   margin-right: auto;
   margin-top: 30px;
 }
+.hearts,
+.diamonds {
+  color: red;
+}
 .hearts::before,
 .hearts::after {
   content: "\2665";
